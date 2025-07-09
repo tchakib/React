@@ -1,0 +1,11 @@
+.MemeForm h1 {
+  margin-bottom: 5px;
+}
+.MemeForm {
+  text-align: center;
+  height: 80vh;
+  overflow-y: scroll;
+}
+.smallNumber {
+  width: 80px;
+}

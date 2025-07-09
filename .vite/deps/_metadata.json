@@ -1,0 +1,37 @@
+{
+  "hash": "87ed3df3",
+  "configHash": "8be68ada",
+  "lockfileHash": "d7270678",
+  "browserHash": "b0b07d32",
+  "optimized": {
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "07fab321",
+      "needsInterop": true
+    },
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "eecbae07",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "3ea56c8c",
+      "needsInterop": true
+    },
+    "orsys-tjs-meme": {
+      "src": "../../node_modules/orsys-tjs-meme/dist/index.modern.js",
+      "file": "orsys-tjs-meme.js",
+      "fileHash": "a5ee7237",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-5WQJO2FO": {
+      "file": "chunk-5WQJO2FO.js"
+    }
+  }
+}
